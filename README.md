@@ -10,15 +10,15 @@
 
 ### [V8](./assets/V8.md) API forts
 
-### [V9](./assets/V9.md) Test
+### [V9](./assets/V9.md) Blazor
 
 ### [V10](./assets/V10.md) Blazor
 
-### [V11](./assets/V11.md) Intro Agil Utveckling och Scrum
+### [V11](./assets/V11.md)  Git
 
-### [V12](./assets/V12.md) Git och CI
+### [V12](./assets/V12.md) Intro Agil Utveckling och Scrum
 
-### [V13](./assets/V13.md) SCRUM
+### [V13](./assets/V13.md) Projekt
 
 ### [V14](./assets/V14.md) Projekt (Möjliga kurser att boka med mig)
 
@@ -36,7 +36,7 @@
 
 ### [V21](./assets/V21.md) Buffert
 
-### [V22](./assets/V22.md) Tenta
+### [V22](./assets/V22.md) Buffert
 
 ## Labbar
 
