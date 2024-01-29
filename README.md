@@ -1,6 +1,6 @@
 # Veckoplanering Webbutveckling med .NET och Agil Utveckling
 
-### [Slides](./assets/Slides/)
+### <a href="./assets/Slides/">Slides</a>
 
 ### [Kursmål](./assets/kursmål.md)
 
