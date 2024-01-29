@@ -1,5 +1,7 @@
 # Veckoplanering Webbutveckling med .NET och Agil Utveckling
 
+### [Slides](./assets/Slides/)
+
 ### [Kursmål](./assets/kursmål.md)
 
 ### [V5](./assets/V5.md) HTML/CSS
