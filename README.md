@@ -8,6 +8,8 @@
 
 ### [HTML och CSS](./assets/HTMLochCSS/LänkarOchMaterial.md)
 
+### [JavaScript](./assets/JavaScript/LänkarOchMaterial.md)
+
 ## Veckoplanering
 
 ### [V5](./assets/V5.md) HTML/CSS
