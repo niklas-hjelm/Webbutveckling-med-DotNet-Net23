@@ -8,7 +8,7 @@
 
 ### [HTML och CSS](./assets/HTMLochCSS/LänkarOchMaterial.md)
 
-### [JavaScript](./assets/JavaScript/LänkarOchMaterial.md)
+### [JavaScript](./assets/JavaScriptIntro/Övningar.md)
 
 ## Veckoplanering
 
