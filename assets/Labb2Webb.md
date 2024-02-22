@@ -1,6 +1,6 @@
 # LABB 2 APIer
 
-I denna uppgift skall vi implementera 
+I denna uppgift skall vi implementera
 databashantering och REST API för en e-handel.
 
 Labben är uppdelad i två delar. Den första delen är
@@ -8,7 +8,7 @@ att skapa APIet.
 
 Den andra delen är att skapa en Frontend som använder APIet.
 
-**För att få andra delen av uppgiften ska man kunna uppvisa att man uppfyllt kraven för APIet. När man påbörjar del två får man inte längre uppdatera sitt API från del 1, förutom när .**
+**För att få andra delen av uppgiften ska man kunna uppvisa att man uppfyllt kraven för APIet. När man påbörjar del två får man inte längre uppdatera sitt API från del 1, förutom när man tar tag i VG-kriterierna.**
 
 ## Beställning
 
@@ -60,7 +60,7 @@ All databaskommunikation skall också ske med hjälp av Repository Pattern.
 
 ## Redovisning
 
-Använd repot genom uppgiften i GitHub-Classrom [HÄR](https://classroom.github.com/a/2IMRFnr5).
+Använd repot genom uppgiften i GitHub-Classrom [HÄR](https://classroom.github.com/a/ykf279M7).
 Skapa en branch som heter `development` att arbeta i. När arbetet är färdigt pusha till `main` och lämna in på ITHS-Distans.
 
 ## Bedömning
