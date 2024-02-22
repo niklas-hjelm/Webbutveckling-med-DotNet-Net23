@@ -10,6 +10,10 @@
 
 ### [JavaScript](./assets/JavaScriptIntro/Övningar.md)
 
+### [API](./assets/API/LänkarOchMaterial.md)
+
+### [API](./assets/API/api-övningar.md)
+
 ## Veckoplanering
 
 ### [V5](./assets/V5.md) HTML/CSS
