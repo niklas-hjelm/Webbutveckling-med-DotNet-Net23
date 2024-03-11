@@ -36,7 +36,7 @@ Denna guide är avsedd att ge er en praktisk introduktion till användningen av 
    - Arbeta oberoende i era branches i nya filer (inte index.html), gör regelbundna commits, och pushar sina ändringar till GitHub.
 
 3. **Merge till `main`.**
-   - När en funktion eller uppdatering är klar, genomför en merge till `main. se till att ha pushat din egen branch, byt till main med `git switch main`, gör `git pull` för att se till att du har det senaste ifrån origin main. Gör sedan `git merge [din branch]` följt av git push.
+   - När en funktion eller uppdatering är klar, genomför en merge till `main`. se till att ha pushat din egen branch, byt till main med `git switch main`, gör `git pull` för att se till att du har det senaste ifrån origin main. Gör sedan `git merge [din branch]` följt av git push.
 
         Gör två sådana uppdateringar vardera. En uppdatering kan vara en färgad div, bild, knapp eller annan liten sak.
 
