@@ -16,6 +16,8 @@ En serie av videos som går igenom Domain Driven Design och Clean Architecture.
 
 ### [ASP.NET Core Authentication .NET Conf 2023](https://youtu.be/c__Sf9j_Q2Y?si=bCTodtNlBiukshIS)
 
+### [Api-Authentication med Blazor](https://www.youtube.com/watch?v=6HGS2z71Ix0&ab_channel=Netcode-Hub)
+
 ## Övningar
 
 ### [API-Övning](api-övningar.md)
