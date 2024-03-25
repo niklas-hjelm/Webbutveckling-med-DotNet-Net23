@@ -14,7 +14,7 @@ All bedömning grundas i SCRUM-guiden och samtliga förväntas efterleva och ver
 
 Om man gör detta till bästa förmåga, bidrar till att teamet tar sig igenom svårigheter och aktivt motverkar förhindrande beteende så kommer det aldrig att vara några frågetecken.
 
-Vi lärare rhar följande mall som vi utgår ifrån när vi deltar i SCRUM-aktiviteter: [Bedömningsmall](./bedömningsmall.png)
+Vi lärare har följande mall som vi utgår ifrån när vi deltar i SCRUM-aktiviteter: [Bedömningsmall](./bedömningsmall.png)
 
 ## Kontakta kund under projektet
 
