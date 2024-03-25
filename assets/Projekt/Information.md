@@ -24,7 +24,7 @@ Kunden svarar sporadiskt under kontorstid.
 
 ## Bokning av kurser
 
-[Kursutbud](https://)
+[Kursutbud](./Kurser%20och%20Workshops.pdf)
 
 ## Vid frånvaro
 
