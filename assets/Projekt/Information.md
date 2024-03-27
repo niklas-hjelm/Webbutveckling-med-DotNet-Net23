@@ -33,3 +33,11 @@ Kunden svarar sporadiskt under kontorstid.
 3. Kontakta UL
 
 Har man inte gjort detta räknas frånvaron som ogiltig (se bedömningsmallen).
+
+### Planning Sprint 1
+
+| Tid         | Magnus      | Robin    | Viktor    | Niklas  |
+| ----------- | ----------- | -------- | --------- | ------- |
+| 09:10-11:00 | Linné       | Frölunda | Kville    | Majorna |
+| 11:10-13:00 | Vasa        | Almedal  | Munkebäck | Angered |
+| 14:10-16:10 | Gamlestaden | Gårda    | Kärra     | Haga    |
