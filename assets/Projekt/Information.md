@@ -34,6 +34,8 @@ Kunden svarar sporadiskt under kontorstid.
 
 Har man inte gjort detta räknas frånvaron som ogiltig (se bedömningsmallen).
 
+## Scrum-aktiviteter
+
 ### Planning Sprint 1
 
 | Tid         | Magnus      | Robin    | Viktor    | Niklas  |
