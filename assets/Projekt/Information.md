@@ -36,7 +36,7 @@ Har man inte gjort detta räknas frånvaron som ogiltig (se bedömningsmallen).
 
 ## VIKTIG INFO
 
-När ni skapat er sprint får ni INTE under sprinten plocka bort saker ur Sprint-backloggen. Om ni gör det kommer flera av verktygen i Azure Boards att vara missvisande efteråt.
+När ni skapat er sprint får ni INTE under sprinten plocka bort eller lägga till saker ur Sprint-backloggen. Om ni gör det kommer flera av verktygen i Azure Boards att vara missvisande efteråt.
 
 ## Scrum-aktiviteter
 
