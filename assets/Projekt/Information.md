@@ -40,6 +40,8 @@ När ni skapat er sprint får ni INTE under sprinten plocka bort eller lägga ti
 
 ## Scrum-aktiviteter
 
+Notera att tiderna angivna är bedömningsfönster. Det är under dessa tider den angivna läraren är med och bedömmer. Det betyder inte att mötena måste starta och sluta inom den angivna tiden. Exempelvis så hinner man nog inte med en hel retrospective på 50 min utan då tänka mer som att bedömningen sker under första eller andra halvan av mötet.
+
 ### Sprint 1
 
 ### Planning
