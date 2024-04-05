@@ -40,10 +40,28 @@ När ni skapat er sprint får ni INTE under sprinten plocka bort saker ur Sprint
 
 ## Scrum-aktiviteter
 
-### Planning Sprint 1
+### Sprint 1
+
+### Planning
 
 | Tid         | Magnus      | Robin    | Viktor    | Niklas  |
 | ----------- | ----------- | -------- | --------- | ------- |
 | 09:10-11:00 | Linné       | Frölunda | Kville    | Majorna |
 | 11:10-13:00 | Vasa        | Almedal  | Munkebäck | Angered |
 | 14:10-16:10 | Gamlestaden | Gårda    | Kärra     | Haga    |
+
+### Review
+
+| Tid         | Magnus      | Robin    | Viktor    | Niklas  |
+| ----------- | ----------- | -------- | --------- | ------- |
+| 09:10-10:00 | Gamlestaden | Gårda    | Kärra     | Haga    |
+| 10:10-11:00 | Vasa        | Almedal  | Munkebäck | Angered |
+| 11:10-12:00 | Linné       | Frölunda | Kville    | Majorna |
+
+### Retrospective
+
+| Tid         | Magnus    | Robin   | Viktor      | Niklas   |
+| ----------- | --------- | ------- | ----------- | -------- |
+| 13:10-14:00 | Gårda     | Vasa    | Gamlestaden | Linné    |
+| 14:10-15:00 | Kärra     | Angered | Haga        | Almedal  |
+| 15:10-16:00 | Munkebäck | Majorna | Kville      | Frölunda |
