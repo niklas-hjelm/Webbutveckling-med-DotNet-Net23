@@ -44,7 +44,7 @@ Notera att tiderna angivna är bedömningsfönster. Det är under dessa tider de
 
 ### Info Sprint Review
 
-
+Under granskningsaktiviteten skall ni planera för att kunden är närvarande och att ni vill ha feedback på arbetet och förbereda frågor för det. Om ni har en representant för Hugo närvarande är det också bra ;) När ni vill ha feedback från kunden behöver ni be om det specifikt. Vi lärare kommer att vara lärare och observera aktiviteten om ni inte ber om något annat. 
 
 ### Sprint 1
 
