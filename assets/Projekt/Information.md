@@ -62,14 +62,14 @@ Under granskningsaktiviteten skall ni planera för att kunden är närvarande oc
 
 | Tid         | Magnus      | Robin    | Viktor    | Niklas  |
 | ----------- | ----------- | -------- | --------- | ------- |
-| 09:10-10:00 | Gamlestaden | Gårda    | Kärra     | Haga    |
-| 10:10-11:00 | Vasa        | Almedal  | Munkebäck | Angered |
+| 09:10-10:00 | Vasa        | Gårda    | Kärra     | Haga    |
+| 10:10-11:00 | Gamlestaden | Almedal  | Munkebäck | Angered |
 | 11:10-12:00 | Linné       | Frölunda | Kville    | Majorna |
 
 ### Retrospective
 
 | Tid         | Magnus    | Robin   | Viktor      | Niklas   |
 | ----------- | --------- | ------- | ----------- | -------- |
-| 13:10-14:00 | Gårda     | Vasa    | Gamlestaden | Linné    |
+| 13:10-14:00 | Gårda     | Vasa    | Gamlestaden | Frölunda |
 | 14:10-15:00 | Kärra     | Angered | Haga        | Almedal  |
-| 15:10-16:00 | Munkebäck | Majorna | Kville      | Frölunda |
+| 15:10-16:00 | Munkebäck | Majorna | Kville      | Linné    |
