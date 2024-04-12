@@ -83,5 +83,5 @@ Under granskningsaktiviteten skall ni planera för att kunden är närvarande oc
 | ----------- | ------- | --------- | -------- | ----------- |
 | 09:10-11:00 | Kville  | Munkebäck | Linné    | Frölunda    |
 | 11:10-13:00 | Kärra   | Angered   | Vasa     | Gamlestaden |
-| 14:10-16:10 | Majorna | Haga      | Almledal | Gårda       |
+| 14:10-16:10 | Majorna | Haga      | Almedal | Gårda       |
 
