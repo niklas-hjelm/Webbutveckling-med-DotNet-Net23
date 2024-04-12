@@ -42,7 +42,7 @@ När ni skapat er sprint får ni INTE under sprinten plocka bort eller lägga ti
 
 Notera att tiderna angivna är bedömningsfönster. Det är under dessa tider den angivna läraren är med och bedömmer. Det betyder inte att mötena måste starta och sluta inom den angivna tiden. Exempelvis så hinner man nog inte med en hel retrospective på 50 min utan då tänka mer som att bedömningen sker under första eller andra halvan av mötet.
 
-### Sprint 1
+## Sprint 1
 
 ### Planning
 
@@ -67,3 +67,13 @@ Notera att tiderna angivna är bedömningsfönster. Det är under dessa tider de
 | 13:10-14:00 | Gårda     | Vasa    | Gamlestaden | Linné    |
 | 14:10-15:00 | Kärra     | Angered | Haga        | Almedal  |
 | 15:10-16:00 | Munkebäck | Majorna | Kville      | Frölunda |
+
+## Sprint 2
+
+### Planning
+
+| Tid         | Magnus  | Robin     | Viktor   | Niklas      |
+| ----------- | ------- | --------- | -------- | ----------- |
+| 09:10-11:00 | Kville  | Munkebäck | Linné    | Frölunda    |
+| 11:10-13:00 | Kärra   | Angered   | Vasa     | Gamlestaden |
+| 14:10-16:10 | Majorna | Haga      | Almledal | Gårda       |
