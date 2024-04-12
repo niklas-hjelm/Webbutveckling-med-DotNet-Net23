@@ -36,6 +36,8 @@ Har man inte gjort detta räknas frånvaron som ogiltig (se bedömningsmallen).
 
 ## VIKTIG INFO
 
+#### [Scrumguiden på Engelska](./2020-Scrum-Guide-US.pdf)
+
 När ni skapat er sprint får ni INTE under sprinten plocka bort eller lägga till saker ur Sprint-backloggen. Om ni gör det kommer flera av verktygen i Azure Boards att vara missvisande efteråt.
 
 ## Scrum-aktiviteter
@@ -43,6 +45,11 @@ När ni skapat er sprint får ni INTE under sprinten plocka bort eller lägga ti
 Notera att tiderna angivna är bedömningsfönster. Det är under dessa tider den angivna läraren är med och bedömmer. Det betyder inte att mötena måste starta och sluta inom den angivna tiden. Exempelvis så hinner man nog inte med en hel retrospective på 50 min utan då tänka mer som att bedömningen sker under första eller andra halvan av mötet.
 
 ## Sprint 1
+
+### Info Sprint Review
+
+Under granskningsaktiviteten skall ni planera för att kunden är närvarande och att ni vill ha feedback på arbetet och förbereda frågor för det. Om ni har en representant för Hugo närvarande är det också bra ;) När ni vill ha feedback från kunden behöver ni be om det specifikt. Vi lärare kommer att vara lärare och observera aktiviteten om ni inte ber om något annat.
+
 
 ### Planning
 
@@ -56,17 +63,17 @@ Notera att tiderna angivna är bedömningsfönster. Det är under dessa tider de
 
 | Tid         | Magnus      | Robin    | Viktor    | Niklas  |
 | ----------- | ----------- | -------- | --------- | ------- |
-| 09:10-10:00 | Gamlestaden | Gårda    | Kärra     | Haga    |
-| 10:10-11:00 | Vasa        | Almedal  | Munkebäck | Angered |
+| 09:10-10:00 | Vasa        | Gårda    | Kärra     | Haga    |
+| 10:10-11:00 | Gamlestaden | Almedal  | Munkebäck | Angered |
 | 11:10-12:00 | Linné       | Frölunda | Kville    | Majorna |
 
 ### Retrospective
 
 | Tid         | Magnus    | Robin   | Viktor      | Niklas   |
 | ----------- | --------- | ------- | ----------- | -------- |
-| 13:10-14:00 | Gårda     | Vasa    | Gamlestaden | Linné    |
+| 13:10-14:00 | Gårda     | Vasa    | Gamlestaden | Frölunda |
 | 14:10-15:00 | Kärra     | Angered | Haga        | Almedal  |
-| 15:10-16:00 | Munkebäck | Majorna | Kville      | Frölunda |
+| 15:10-16:00 | Munkebäck | Majorna | Kville      | Linné    |
 
 ## Sprint 2
 
@@ -77,3 +84,4 @@ Notera att tiderna angivna är bedömningsfönster. Det är under dessa tider de
 | 09:10-11:00 | Kville  | Munkebäck | Linné    | Frölunda    |
 | 11:10-13:00 | Kärra   | Angered   | Vasa     | Gamlestaden |
 | 14:10-16:10 | Majorna | Haga      | Almledal | Gårda       |
+
