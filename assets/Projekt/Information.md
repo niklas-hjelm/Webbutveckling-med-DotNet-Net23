@@ -77,11 +77,75 @@ Under granskningsaktiviteten skall ni planera för att kunden är närvarande oc
 
 ## Sprint 2
 
-### Planning
+### Planning sprint 2
 
-| Tid         | Magnus  | Robin     | Viktor   | Niklas      |
-| ----------- | ------- | --------- | -------- | ----------- |
-| 09:10-11:00 | Kville  | Munkebäck | Linné    | Frölunda    |
-| 11:10-13:00 | Kärra   | Angered   | Vasa     | Gamlestaden |
+| Tid         | Magnus  | Robin     | Viktor  | Niklas      |
+| ----------- | ------- | --------- | ------- | ----------- |
+| 09:10-11:00 | Kville  | Munkebäck | Linné   | Frölunda    |
+| 11:10-13:00 | Kärra   | Angered   | Vasa    | Gamlestaden |
 | 14:10-16:10 | Majorna | Haga      | Almedal | Gårda       |
 
+### Review sprint 2
+
+| Tid         | Magnus      | Robin  | Viktor   | Niklas    |
+| ----------- | ----------- | ------ | -------- | --------- |
+| 09:10-10:00 | Gårda       | Linné  | Frölunda | Munkebäck |
+| 10:10-11:00 | Almedal     | Haga   | Majorna  | Vasa      |
+| 11:10-12:00 | Gamlestaden | Kville | Angered  | Kärra     |
+
+### Retropective sprint 2
+
+| Tid         | Magnus   | Robin   | Viktor    | Niklas      |
+| ----------- | -------- | ------- | --------- | ----------- |
+| 13:10-14:00 | Angered  | Linné   | Gårda     | Kville      |
+| 14:10-15:00 | Haga     | Majorna | Munkebäck | Gamlestaden |
+| 15:10-16:00 | Frölunda | Kärra   | Almedal   | Vasa        |
+
+## Avslutning på projektet
+
+Fredagen den 26/4 är sista dagen på projektet. Efter att alla grupper gjort alla sina sprint-aktiviteter klockan 16:00 så kommer vi att sätta upp ett teams-möte där alla team får fem minuter vardera. Under dessa fem minuter kan ni visa upp eller presentera något som de är särskilt nöjda med eller som man lärt sig. **Detta bedöms inte** utan är tänkt för att ni ska få dela med er av något med de andra teamen. Länk till detta möte kommer att skickas ut i god tid.
+Detta är något vi gjorde även förra året och som både vi och de studerande tyckte var väldigt givande.
+
+Under detta möte sitter ni tillsammans i era team, antingen i erat rum eller på annan gemensam plats. Alla team kommer att få en 5-minuters-slot att visa upp något och det är inte viktigt vad det är eller vem som gör det. Se bara till att ni är redo när det är eran tur.
+
+Till detta avslutande möte kommer även ledningsgrupperna från de olika utbildningarna att bjudas in att delta. Detta på begäran av skolan och utbildningsledarna. Vi lärare har varit noga med att de som deltar i mötet men inte varit del i projektet varken får säga något eller skriva i chatten. De ska heller inte ha på kameran eller mikrofonen. De är också informerade att det inte är en presentation utav projektet utan menat för er att dela lärdommar.
+
+Detta pågår då i en timma och en kvart mellan 16:00 och 17:15. Efter det så kommer det finnas möjlighet till gemensam AW på Nordic Sports bar (länk till en intresseanmälan kommer). Jag och de andra lärarna (med någon eventuell avvikelse) kommer att hänga på dit.
+
+Om ni har några frågor så kontakta någon av oss lärare.
+
+### Agenda för avslutande Lärande-"presentation"
+
+Lärarna hälsar alla välkomna
+
+1. Angered 16:10
+2. Linné 16:15
+3. Gårda 16:20
+4. Kville 16:25
+5. Haga 16:30
+6. Majorna 16:35
+7. Munkebäck 16:40
+8. Gamlestaden 16:45
+9. Frölunda 16:50
+10. Kärra 16:55
+11. Almedal 17:00
+12. Vasa 17:05
+
+Lärarna tackar alla deltagare i projektet och avslutar mötet.
+
+### FAQ avslutande Lärande-"presentation"
+
+**Q:** Måste man vara med? </br>
+**A:** Nej men det är väldigt trevligt för teamet om alla är med.
+
+**Q:** Måste alla prata under 5 minuter? </br>
+**A:** Nej, det räcker att en eller två gör det, men en bakgrundskör är alltid trevligt 🤣.
+
+**Q:** Bedöms detta? </br>
+**A:** NEJ! Detta bedöms inte på något sätt.
+
+**Q:** Behöver man ha gjort slides för detta?</br>
+**A:** Nej, men om det man vill visa upp inte lämpar sig för demo utan är mer ett berättande så kan slides vara trevligt.
+
+**Q:** Får man klä ut sig? </br>
+**A:** Allt är tillåtet, så länge det bidrar till underhållningsvärdet och inte riskerar rättsliga konsekvenser.
