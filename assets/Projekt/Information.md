@@ -110,7 +110,7 @@ Under detta möte sitter ni tillsammans i era team, antingen i erat rum eller p�
 
 Till detta avslutande möte kommer även ledningsgrupperna från de olika utbildningarna att bjudas in att delta. Detta på begäran av skolan och utbildningsledarna. Vi lärare har varit noga med att de som deltar i mötet men inte varit del i projektet varken får säga något eller skriva i chatten. De ska heller inte ha på kameran eller mikrofonen. De är också informerade att det inte är en presentation utav projektet utan menat för er att dela lärdommar.
 
-Detta pågår då i en timma och en kvart mellan 16:00 och 17:15. Efter det så kommer det finnas möjlighet till gemensam AW på Nordic Sports bar (länk till en intresseanmälan kommer). Jag och de andra lärarna (med någon eventuell avvikelse) kommer att hänga på dit.
+Detta pågår då i en timma och en kvart mellan 16:00 och 17:15. Efter det så kommer det finnas möjlighet till gemensam AW på Nordic Sports bar [Länk till intresseanmälan](https://forms.office.com/pages/responsepage.aspx?id=IZlnW_dTQkaiUYpgNgjSHENfdTOQuTNHscVrUzlJ4n5UMEtYUkRSSDVHSEE2VTJGWUM4SlhZV0xNTS4u). Jag och de andra lärarna (med någon eventuell avvikelse) kommer att hänga på dit.
 
 Om ni har några frågor så kontakta någon av oss lärare.
 
