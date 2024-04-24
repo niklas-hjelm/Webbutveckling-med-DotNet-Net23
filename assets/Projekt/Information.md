@@ -89,9 +89,9 @@ Under granskningsaktiviteten skall ni planera för att kunden är närvarande oc
 
 | Tid         | Magnus      | Robin  | Viktor   | Niklas    |
 | ----------- | ----------- | ------ | -------- | --------- |
-| 09:10-10:00 | Gårda       | Linné  | Frölunda | Munkebäck |
+| 09:10-10:00 | Gårda       | Linné  | Angered  | Munkebäck |
 | 10:10-11:00 | Almedal     | Haga   | Majorna  | Vasa      |
-| 11:10-12:00 | Gamlestaden | Kville | Angered  | Kärra     |
+| 11:10-12:00 | Gamlestaden | Kville | Frölunda | Kärra     |
 
 ### Retropective sprint 2
 
