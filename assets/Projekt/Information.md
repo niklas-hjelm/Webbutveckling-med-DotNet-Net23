@@ -149,3 +149,16 @@ Lärarna tackar alla deltagare i projektet och avslutar mötet.
 
 **Q:** Får man klä ut sig? </br>
 **A:** Allt är tillåtet, så länge det bidrar till underhållningsvärdet och inte riskerar rättsliga konsekvenser.
+
+## Praktisk information om sista dagen:
+Under dagen imorgon behöver lokalerna på våning 1 röjas.
+Det innebär att skärmar, post-its, pennor osv ska samlas ihop.
+Skärmar, grenuttag, förlängningssladdar och liknande som lånats av skolan ska bäras upp och ställas på Maryams kontor
+Pennor, oanvända papper, post-its, häftmasssa osv ska sorteras (lådor kommer att finnas uppe i skolans "lobby")
+
+Whiteboards på hjul ska ställas tillsammans i korridoren
+Bord och stolar ska lyftas ut i korridoren för att underlätta flytten tillbaks upp.
+
+Om man inte har sista bedömningstiden för retrospective så hade det varit otroligt uppskattat om man också ville bära upp sina bord och stolar och ställa i Firewall eller Tetris. Har man sista bedömningstiden räcker det att röja ur rummet och ställa bord/stolar utanför rummet.
+
+De teamen som huserat på nedervåningen kan under avslutande "presentationen" klockan 16:00 få tillgång till en sal eller ett rum uppe i skolan för detta.
