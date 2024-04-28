@@ -12,6 +12,8 @@
 
 ### [API](./assets/API/LänkarOchMaterial.md)
 
+### [Sista veckorna](./assets/InfoFortsättning.md)
+
 ## Veckoplanering
 
 ### [V5](./assets/V5.md) HTML/CSS
@@ -40,7 +42,7 @@
 
 ### [V17](./assets/V17.md) Projekt (Möjliga kurser att boka med mig)
 
-### [V18](./assets/V18.md) Projekt (Möjliga kurser att boka med mig)
+### [V18](./assets/V18.md) Inga lektioner med Niklas (Kursstart Konsultmässighet Fredag)
 
 ### [V19](./assets/V19.md) API Fördjupning
 
