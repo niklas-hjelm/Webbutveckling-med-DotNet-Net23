@@ -52,6 +52,10 @@
 
 ### [V22](./assets/V22.md) Buffert
 
+### [V23](./assets/V23.md) Buffert
+
+### [V24](./assets/V24.md) Buffert
+
 ## Labbar
 
 ### [Labb 1 - Webbutveckling](./assets/Labb1Webb.md)
