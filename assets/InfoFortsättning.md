@@ -1,6 +1,5 @@
 # Information sista veckorna V.18-24
 
-`V.18 är `
 
 ## **Prioriteringar**
 
