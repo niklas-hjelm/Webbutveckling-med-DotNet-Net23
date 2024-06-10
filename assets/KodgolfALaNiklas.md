@@ -31,7 +31,7 @@ Brott mot reglerna leder till diskvalificering.
 
 Man kan få hjälp av Niklas under tävlingen.
 
-För att få en ledtråd eller hjälp med en uppgift gör man detta mot att antingen betala 1 poäng eller att göra Nicklas utmaning.
+För att få en ledtråd eller hjälp med en uppgift gör man detta mot att antingen betala 1 poäng eller att göra Niklas utmaning.
 
     Utmaningen innebär stark chilisås. För varje gång man nyttjar detta kostar det antingen 1 mer poäng eller en nivå starkare chilisås.
 
